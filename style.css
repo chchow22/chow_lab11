@@ -1,4 +1,30 @@
+body {
+  font-size: 18px;
+}
+
+h2 {
+  width: 100%;
+  text-align: center;
+  color: red;
+  font-size: 30px;
+}
+
 .redditImage {
   width: 200px;
   height: 200px;
+}
+
+.postDiv {
+  width: 50%;
+  height: 400px;
+  display: inline-block;
+  position: relative;
+  left: 25%;
+  border-width: medium;
+  border-color: red;
+  border-style: ridge;
+  padding: 5px;
+  background-color: aqua;
+  margin-bottom: 5px;
+
 }
